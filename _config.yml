@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Your awesome title
-email: an8957@naver.com
+email: an8957@gmail.com
 description: |
   안녕하세요! 이 블로그는 <strong>CurrentJob</strong>의 개발 여정을 기록하는 공간입니다.
   이곳에서는 제 기술 역량, 수행한 프로젝트, 개발하면서 배운 지식 및 경험을 공유합니다.
