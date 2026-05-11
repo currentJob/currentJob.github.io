@@ -44,13 +44,8 @@ export const profileData = {
       icon: "github",
     },
     {
-      name: "LinkedIn",
-      url: "#",
-      icon: "linkedin",
-    },
-    {
       name: "Email",
-      url: "mailto:contact@example.com",
+      url: "mailto:an8957@gmail.com",
       icon: "email",
     },
   ],
